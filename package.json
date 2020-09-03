@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "react-checkbox-group@5.0.2",
+      "E:\\Chaitanya\\Bitbucket\\rock\\yep-marketplace"
+    ]
+  ],
+  "_from": "react-checkbox-group@5.0.2",
+  "_id": "react-checkbox-group@5.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-iNnKCwVNNlsj6DXIzPO9qx5BcwPf3lXV0u8UW6YcsVDwlS2AC+bJXq76z2uwbtWZbCIZHzm2mxMMj4Bzm3B+lw==",
+  "_location": "/react-checkbox-group",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-checkbox-group@5.0.2",
+    "name": "react-checkbox-group",
+    "escapedName": "react-checkbox-group",
+    "rawSpec": "5.0.2",
+    "saveSpec": null,
+    "fetchSpec": "5.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-checkbox-group/-/react-checkbox-group-5.0.2.tgz",
+  "_spec": "5.0.2",
+  "_where": "E:\\Chaitanya\\Bitbucket\\rock\\yep-marketplace",
+  "author": {
+    "name": "Ziad Saab",
+    "email": "ziad.saab@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ziad-saab/react-checkbox-group/issues"
+  },
+  "description": "Sensible checkbox groups manipulation for DOM.",
+  "devDependencies": {
+    "@testing-library/react": "^8.0.5",
+    "@types/jest": "^24.0.15",
+    "@types/react": "^16.8.23",
+    "jest": "^24.8.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  },
+  "homepage": "https://github.com/ziad-saab/react-checkbox-group",
+  "jest": {
+    "preset": "ts-jest"
+  },
+  "keywords": [
+    "facebook",
+    "react",
+    "checkbox",
+    "group",
+    "dom",
+    "input",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-checkbox-group",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziad-saab/react-checkbox-group.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "yarn build",
+    "test": "jest"
+  },
+  "version": "5.0.2"
+}
